@@ -28,3 +28,4 @@ sudo -u developer1 whoami >> /home/vagrant/parcial1/AySO-Parcial1-JulianOrtiz/pa
 sudo -u tester1 whoami >> /home/vagrant/parcial1/AySO-Parcial1-JulianOrtiz/parcial1/validar.txt
 sudo -u devops1 whoami >> /home/vagrant/parcial1/AySO-Parcial1-JulianOrtiz/parcial1/validar.txt
 sudo -u devops2 whoami >> /home/vagrant/parcial1/AySO-Parcial1-JulianOrtiz/parcial1/validar.txt
+

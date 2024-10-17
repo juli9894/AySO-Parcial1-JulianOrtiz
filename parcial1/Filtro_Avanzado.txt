@@ -1,0 +1,3 @@
+Mi IP Publica es: 191.85.28.88
+Mi Usuario es: vagrant
+El Hash de mi Usuario es: $y$j9T$f7V.J8o8/5JXqaI3xUKKQ0$oND2iaEkOI22AcHc9kfKwylXqBi.VixFO/cPGuxMD..
